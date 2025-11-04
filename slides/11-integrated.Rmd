@@ -106,6 +106,18 @@ Two or more surveys run by neighbouring agencies with somewhat different gear bu
 .small[Northeast Pacific Ocean Pacific Spiny Dogfish:<br>NOAA + DFO trawl surveys]
 
 .center[
+<img src="images/dogfish-coast.png" width="430px"/>
+]
+
+.tiny[[Davidson et al. 2025. In press at Fish and Fisheries](https://doi.org/10.32942/X2V64Z)]
+
+---
+
+# Expanded domain example
+
+.small[Northeast Pacific Ocean Pacific Spiny Dogfish:<br>NOAA + DFO trawl surveys]
+
+.center[
 <img src="images/dogfish-map.png" width="430px"/>
 ]
 
